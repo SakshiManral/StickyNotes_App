@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.fragment.app.FragmentActivity void onCreate(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+    </item>
+</root>
